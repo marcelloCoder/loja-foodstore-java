@@ -8,8 +8,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 import br.com.foodstore.enums.StatusContaReceber;
-import br.com.foodstore.enums.TipoEndereco;
-import jakarta.persistence.Column;
+
 import jakarta.persistence.ConstraintMode;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

@@ -6,7 +6,7 @@ package br.com.foodstore.model;
 import java.io.Serializable;
 
 import br.com.foodstore.enums.TipoEndereco;
-import jakarta.persistence.Column;
+
 import jakarta.persistence.ConstraintMode;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
